@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Z0nCY8WnPLLID1KhRkW9">
-    <mxGraphModel>
+    <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HTTP协议" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="连接建立过程" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据发送过程" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定向发送" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="广播数据" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
