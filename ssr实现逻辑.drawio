@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="Z0nCY8WnPLLID1KhRkW9">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="建立连接的过程" id="Z0nCY8WnPLLID1KhRkW9">
     <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -10,20 +10,67 @@
         <mxCell id="YDfg_1_I26u9zGGTVFdC-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="连接建立过程" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="YDfg_1_I26u9zGGTVFdC-6" edge="1" parent="1" source="YDfg_1_I26u9zGGTVFdC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YDfg_1_I26u9zGGTVFdC-4">
+        <mxCell id="pvzRBFMtuWizGzjMWE46-4" edge="1" parent="1" source="YDfg_1_I26u9zGGTVFdC-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pvzRBFMtuWizGzjMWE46-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YDfg_1_I26u9zGGTVFdC-7" edge="1" parent="1" source="YDfg_1_I26u9zGGTVFdC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YDfg_1_I26u9zGGTVFdC-5">
+        <mxCell id="pvzRBFMtuWizGzjMWE46-5" edge="1" parent="1" source="YDfg_1_I26u9zGGTVFdC-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pvzRBFMtuWizGzjMWE46-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YDfg_1_I26u9zGGTVFdC-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据发送过程" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="390" as="geometry" />
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="服务端spring的封装核心对象&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;SseEmitter&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="146" x="460" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="YDfg_1_I26u9zGGTVFdC-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定向发送" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="350" as="geometry" />
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-10" edge="1" parent="1" source="YDfg_1_I26u9zGGTVFdC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YDfg_1_I26u9zGGTVFdC-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YDfg_1_I26u9zGGTVFdC-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="广播数据" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="450" as="geometry" />
+        <mxCell id="pvzRBFMtuWizGzjMWE46-1" connectable="0" parent="YDfg_1_I26u9zGGTVFdC-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTP请求" vertex="1">
+          <mxGeometry relative="1" x="0.0345" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YDfg_1_I26u9zGGTVFdC-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="客户端使用&lt;span style=&quot;font-style: italic; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;EventSource封装&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="pvzRBFMtuWizGzjMWE46-6" edge="1" parent="1" source="pvzRBFMtuWizGzjMWE46-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvzRBFMtuWizGzjMWE46-8" connectable="0" parent="pvzRBFMtuWizGzjMWE46-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="response 写数据" vertex="1">
+          <mxGeometry relative="1" x="0.3882" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvzRBFMtuWizGzjMWE46-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="构建SeeEmitter对象与之通信发送数据" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="pvzRBFMtuWizGzjMWE46-7" edge="1" parent="1" source="pvzRBFMtuWizGzjMWE46-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="pvzRBFMtuWizGzjMWE46-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvzRBFMtuWizGzjMWE46-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="心跳任务发送心跳数据" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="j5rDD0lte_rDjMDCLVnT" name="数据发送过程">
+    <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sTBZ4vp2YK0A31wFdoy9-1" edge="1" parent="1" source="sTBZ4vp2YK0A31wFdoy9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="sTBZ4vp2YK0A31wFdoy9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTBZ4vp2YK0A31wFdoy9-2" edge="1" parent="1" source="sTBZ4vp2YK0A31wFdoy9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sTBZ4vp2YK0A31wFdoy9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTBZ4vp2YK0A31wFdoy9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据发送过程" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sTBZ4vp2YK0A31wFdoy9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定向发送" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sTBZ4vp2YK0A31wFdoy9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="广播数据" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
