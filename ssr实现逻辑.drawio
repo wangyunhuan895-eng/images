@@ -66,11 +66,26 @@
         <mxCell id="sTBZ4vp2YK0A31wFdoy9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据发送过程" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="eIKni5YYyoGRDZSnx1Pt-2" edge="1" parent="1" source="sTBZ4vp2YK0A31wFdoy9-4" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eIKni5YYyoGRDZSnx1Pt-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sTBZ4vp2YK0A31wFdoy9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定向发送" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="160" as="geometry" />
         </mxCell>
+        <mxCell id="8uxR478LrZxem4Ax3EI1-1" edge="1" parent="1" source="sTBZ4vp2YK0A31wFdoy9-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eIKni5YYyoGRDZSnx1Pt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sTBZ4vp2YK0A31wFdoy9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="广播数据" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8uxR478LrZxem4Ax3EI1-3" edge="1" parent="1" source="eIKni5YYyoGRDZSnx1Pt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8uxR478LrZxem4Ax3EI1-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKni5YYyoGRDZSnx1Pt-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;SseEmitter进行send&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8uxR478LrZxem4Ax3EI1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="最终还是调用http的response(OutputStream)的write方法进行数据发送" vertex="1">
+          <mxGeometry height="60" width="170" x="575" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
