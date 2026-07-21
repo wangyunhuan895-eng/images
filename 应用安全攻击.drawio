@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="5">
+<mxfile host="app.diagrams.net" pages="6">
   <diagram name="xss" id="Q5BuGfoGSXJWJw7-in_3">
     <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="uaVMa-SdMG-ITp233MYC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Cross-Site Request Forgery（跨站请求伪造）&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="320" x="260" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Gh4L07e9gZWw7Zbx2Zwt-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SSO的回调引发的csrf" vertex="1">
+          <mxGeometry height="60" width="180" x="130" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -41,6 +44,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YMcP0uvJilp_mKjpVLg8" name="sql注入">
+    <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HkCX49Djh5J4vGrSZyvN" name="请求重放攻击">
     <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
