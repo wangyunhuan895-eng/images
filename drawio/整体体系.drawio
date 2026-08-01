@@ -70,6 +70,9 @@
         <mxCell id="BcGy876GfENA1jMwpNtG-8" edge="1" parent="1" source="BcGy876GfENA1jMwpNtG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BcGy876GfENA1jMwpNtG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mSHNBUpMCHEJGRnteyYG-4" edge="1" parent="1" source="BcGy876GfENA1jMwpNtG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mSHNBUpMCHEJGRnteyYG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BcGy876GfENA1jMwpNtG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="/" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="120" as="geometry" />
         </mxCell>
@@ -80,10 +83,19 @@
           <mxGeometry height="60" width="120" x="300" y="220" as="geometry" />
         </mxCell>
         <mxCell id="BcGy876GfENA1jMwpNtG-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="/tmp" vertex="1">
-          <mxGeometry height="60" width="120" x="300" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="300" y="420" as="geometry" />
         </mxCell>
         <mxCell id="mSHNBUpMCHEJGRnteyYG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="内存各种数据结构对应的对象在用户态的呈现" vertex="1">
           <mxGeometry height="30" width="130" x="540" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="mSHNBUpMCHEJGRnteyYG-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="进程相关信息" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="mSHNBUpMCHEJGRnteyYG-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="/device" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="mSHNBUpMCHEJGRnteyYG-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="设备信息" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="315" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
