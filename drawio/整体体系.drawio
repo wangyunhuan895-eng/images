@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f27IPnLJcGS7VV5RG2Os-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="内存管理" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="320" as="geometry" />
         </mxCell>
         <mxCell id="f27IPnLJcGS7VV5RG2Os-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="中断机制" vertex="1">
           <mxGeometry height="60" width="120" x="590" y="170" as="geometry" />
