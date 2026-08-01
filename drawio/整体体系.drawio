@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f27IPnLJcGS7VV5RG2Os-4" edge="1" parent="1" source="f27IPnLJcGS7VV5RG2Os-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="f27IPnLJcGS7VV5RG2Os-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f27IPnLJcGS7VV5RG2Os-6" edge="1" parent="1" source="f27IPnLJcGS7VV5RG2Os-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="f27IPnLJcGS7VV5RG2Os-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f27IPnLJcGS7VV5RG2Os-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="linux内核" vertex="1">
-          <mxGeometry height="60" width="120" x="210" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="f27IPnLJcGS7VV5RG2Os-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="内存管理" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="f27IPnLJcGS7VV5RG2Os-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="中断机制" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
