@@ -1,21 +1,4 @@
 <mxfile host="app.diagrams.net" pages="3">
-  <diagram id="UJt28q781Mv9_lB1J_8K" name="三高问题">
-    <mxGraphModel dx="846" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="LHMqXuTw6A8sAsdp3ytB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="QPS" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="LHMqXuTw6A8sAsdp3ytB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TPS" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="LHMqXuTw6A8sAsdp3ytB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="吞吐量" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="360" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="内核" id="Vj6GFa-OY1BY-buMCHQA">
     <mxGraphModel dx="891" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +58,23 @@
         </mxCell>
         <mxCell id="Z4tP96MIA9q1QEAUllMQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UJt28q781Mv9_lB1J_8K" name="三高问题">
+    <mxGraphModel dx="846" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LHMqXuTw6A8sAsdp3ytB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="QPS" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LHMqXuTw6A8sAsdp3ytB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TPS" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LHMqXuTw6A8sAsdp3ytB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="吞吐量" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
