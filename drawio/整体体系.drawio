@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="内核" id="Vj6GFa-OY1BY-buMCHQA">
     <mxGraphModel dx="940" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,6 +128,17 @@
         </mxCell>
         <mxCell id="LHMqXuTw6A8sAsdp3ytB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="吞吐量" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gPCLwxg72l-EYFq2c9Tc" name="系统架构">
+    <mxGraphModel dx="846" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LVspIapcauxUUCHP7VpA-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;tips&lt;/h1&gt;&lt;p&gt;系统架构的重要性,在你写应标文件的时候就发现了,在技术方案中占有重要的比重&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="110" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
