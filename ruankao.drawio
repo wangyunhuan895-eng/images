@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="x9u9NN3pVcwIL4YwCWiU">
     <mxGraphModel dx="846" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,6 +31,14 @@
         <mxCell id="E-Dvz7xRq5rcoggGajOc-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="非风险点" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="370" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5jh8X4oBNmtuOPpDEvgM" name="第 2 页">
+    <mxGraphModel dx="846" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
