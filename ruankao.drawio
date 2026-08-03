@@ -66,6 +66,18 @@
         <mxCell id="hmp3A7wdXf7bYLE_5fNE-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="根据这些决策，形成“&lt;strong data-start=&quot;160&quot; data-end=&quot;173&quot;&gt;完整的系统架构方案&lt;/strong&gt;”" vertex="1">
           <mxGeometry height="30" width="240" x="700" y="265" as="geometry" />
         </mxCell>
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="架构风格：微服务" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构件：用户服务、订单服务、支付服务" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="系统由什么构成？&lt;div&gt;构件怎么组织？&lt;/div&gt;&lt;div&gt;构件之间怎么交互？&lt;/div&gt;&lt;div&gt;为什么这么组织？&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="200" x="720" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构件：用户服务、订单服务、支付服务" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
