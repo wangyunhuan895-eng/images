@@ -54,8 +54,8 @@
         <mxCell id="hmp3A7wdXf7bYLE_5fNE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="质量属性" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="hmp3A7wdXf7bYLE_5fNE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="架构评估" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="310" as="geometry" />
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="架构评价" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="490" as="geometry" />
         </mxCell>
         <mxCell id="hmp3A7wdXf7bYLE_5fNE-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="架构设计决策" vertex="1">
           <mxGeometry height="60" width="120" x="530" y="150" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry height="60" width="120" x="520" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="hmp3A7wdXf7bYLE_5fNE-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="架构评估" vertex="1">
-          <mxGeometry height="60" width="120" x="530" y="70" as="geometry" />
+          <mxGeometry height="60" width="120" x="320" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
