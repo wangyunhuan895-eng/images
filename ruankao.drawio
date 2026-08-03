@@ -84,6 +84,12 @@
         <mxCell id="hmp3A7wdXf7bYLE_5fNE-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="功能需求/非功能需求" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="-140" as="geometry" />
         </mxCell>
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="软件质量的各个方面往往相互矛盾" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="hmp3A7wdXf7bYLE_5fNE-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="架构评估" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
