@@ -15,8 +15,13 @@
         <mxCell id="ezfFplCBF7GxtvyNo9rt-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="缩略图的接口" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="ezfFplCBF7GxtvyNo9rt-11" edge="1" parent="1" source="ezfFplCBF7GxtvyNo9rt-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ezfFplCBF7GxtvyNo9rt-10">
+        <mxCell id="ezfFplCBF7GxtvyNo9rt-11" edge="1" parent="1" source="ezfFplCBF7GxtvyNo9rt-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="ezfFplCBF7GxtvyNo9rt-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ezfFplCBF7GxtvyNo9rt-13" connectable="0" parent="ezfFplCBF7GxtvyNo9rt-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="返回图片的数据" vertex="1">
+          <mxGeometry relative="1" x="0.4231" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
