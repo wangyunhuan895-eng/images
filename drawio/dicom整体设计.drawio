@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ezfFplCBF7GxtvyNo9rt-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="导航栏" vertex="1">
           <mxGeometry height="200" width="180" x="120" y="90" as="geometry">
-            <mxRectangle height="30" width="140" x="260" y="200" as="alternateBounds" />
+            <mxRectangle height="30" width="140" x="120" y="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ezfFplCBF7GxtvyNo9rt-9" parent="ezfFplCBF7GxtvyNo9rt-8" style="rounded=0;whiteSpace=wrap;html=1;" value="缩略图" vertex="1">
