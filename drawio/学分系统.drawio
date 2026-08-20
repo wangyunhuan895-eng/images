@@ -1,9 +1,26 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="导出业务表格" id="UBdeLYi1sIpmN87PzvVF">
     <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mFDUCNsm4vOwSV8WRScx" name="第 2 页">
+    <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oiDUKL8ijHx6wV7TfOcl-3" edge="1" parent="1" source="oiDUKL8ijHx6wV7TfOcl-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="oiDUKL8ijHx6wV7TfOcl-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiDUKL8ijHx6wV7TfOcl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="年中学分审核" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oiDUKL8ijHx6wV7TfOcl-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="管理员&lt;div&gt;1、只能看到项目类学分&lt;/div&gt;&lt;div&gt;2、全部是非项目类的学员是看不到的&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="490" y="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
