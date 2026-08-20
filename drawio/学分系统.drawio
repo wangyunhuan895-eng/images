@@ -1,11 +1,20 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="UBdeLYi1sIpmN87PzvVF">
+  <diagram name="导出业务表格" id="UBdeLYi1sIpmN87PzvVF">
     <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="67GnK2qLGFpnUZ9UwHyE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="导出业务表格" vertex="1">
-          <mxGeometry height="60" width="120" x="270" y="200" as="geometry" />
+        <mxCell id="67GnK2qLGFpnUZ9UwHyE-36" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;" value="" vertex="1">
+          <mxGeometry height="90" width="200" x="140" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="67GnK2qLGFpnUZ9UwHyE-37" parent="67GnK2qLGFpnUZ9UwHyE-36" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#333333;" value="合格汇总表" vertex="1">
+          <mxGeometry height="30" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="67GnK2qLGFpnUZ9UwHyE-38" parent="67GnK2qLGFpnUZ9UwHyE-36" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#333333;" value="Dapibus ac facilisis in" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="67GnK2qLGFpnUZ9UwHyE-39" parent="67GnK2qLGFpnUZ9UwHyE-36" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.bottomButton;rSize=5;fontColor=#333333;" value="Vestibulum at eros" vertex="1">
+          <mxGeometry height="30" width="200" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
