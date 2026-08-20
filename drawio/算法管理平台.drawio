@@ -4,8 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RKMxa7DHp9Q3FF1fRSiD-3" edge="1" parent="1" source="RKMxa7DHp9Q3FF1fRSiD-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKMxa7DHp9Q3FF1fRSiD-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKMxa7DHp9Q3FF1fRSiD-7" edge="1" parent="1" source="RKMxa7DHp9Q3FF1fRSiD-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RKMxa7DHp9Q3FF1fRSiD-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKMxa7DHp9Q3FF1fRSiD-9" edge="1" parent="1" source="RKMxa7DHp9Q3FF1fRSiD-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RKMxa7DHp9Q3FF1fRSiD-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RKMxa7DHp9Q3FF1fRSiD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="识别视频中的各种行为" vertex="1">
-          <mxGeometry height="60" width="160" x="220" y="160" as="geometry" />
+          <mxGeometry height="60" width="160" x="150" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RKMxa7DHp9Q3FF1fRSiD-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="水位信息" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RKMxa7DHp9Q3FF1fRSiD-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="车信息" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RKMxa7DHp9Q3FF1fRSiD-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="人信息" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
