@@ -33,6 +33,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ehsgup44KpmgF4pk3k5C-3" edge="1" parent="1" source="Ehsgup44KpmgF4pk3k5C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Ehsgup44KpmgF4pk3k5C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehsgup44KpmgF4pk3k5C-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="alg-platform" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehsgup44KpmgF4pk3k5C-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="MySQL&lt;div&gt;alg_platform&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="200" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
