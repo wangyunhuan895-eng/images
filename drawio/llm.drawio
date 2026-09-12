@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="8xeTHJ2vENpjHHj0tSGg">
+    <mxGraphModel dx="846" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v7jQhzYCbUlugzKnywbe-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LLM&lt;div&gt;(conext 最大限制模型自身的限制)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="382" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-3" edge="1" parent="1" source="v7jQhzYCbUlugzKnywbe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="v7jQhzYCbUlugzKnywbe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ollama&lt;div&gt;(context环境可以限制)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="176" x="354" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-7" edge="1" parent="1" source="v7jQhzYCbUlugzKnywbe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="v7jQhzYCbUlugzKnywbe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ollama ps 查询运行时的大模型" vertex="1">
+          <mxGeometry height="60" width="190" x="610" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-8" edge="1" parent="1" source="v7jQhzYCbUlugzKnywbe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="v7jQhzYCbUlugzKnywbe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ollama list 列出所有下载的模型" vertex="1">
+          <mxGeometry height="60" width="190" x="610" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-9" edge="1" parent="1" source="v7jQhzYCbUlugzKnywbe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="v7jQhzYCbUlugzKnywbe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ollama&amp;nbsp; show 查看模型的具体信息" vertex="1">
+          <mxGeometry height="60" width="190" x="610" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-11" edge="1" parent="1" source="v7jQhzYCbUlugzKnywbe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="v7jQhzYCbUlugzKnywbe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-12" connectable="0" parent="v7jQhzYCbUlugzKnywbe-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="调用" vertex="1">
+          <mxGeometry relative="1" x="-0.0597" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="客户端" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-16" edge="1" parent="1" source="v7jQhzYCbUlugzKnywbe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="v7jQhzYCbUlugzKnywbe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="标准" vertex="1">
+          <mxGeometry height="40" width="100" x="200" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="v7jQhzYCbUlugzKnywbe-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OpenAI兼容标准" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
