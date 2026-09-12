@@ -60,7 +60,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TQT2fCKEoic7YyUVwvs_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OpenAI标准" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="60" y="690" as="geometry" />
         </mxCell>
         <mxCell id="TQT2fCKEoic7YyUVwvs_-23" edge="1" parent="1" source="TQT2fCKEoic7YyUVwvs_-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TQT2fCKEoic7YyUVwvs_-1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,11 +113,17 @@
         <mxCell id="TQT2fCKEoic7YyUVwvs_-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant: normal; font-weight: 400; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-language-override: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;tool&lt;/code&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="830" y="560" as="geometry" />
         </mxCell>
+        <mxCell id="eDsdsEIF6avGM6kOTGsd-7" edge="1" parent="1" source="TQT2fCKEoic7YyUVwvs_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="TQT2fCKEoic7YyUVwvs_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TQT2fCKEoic7YyUVwvs_-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SSE" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="690" as="geometry" />
         </mxCell>
+        <mxCell id="eDsdsEIF6avGM6kOTGsd-8" edge="1" parent="1" source="TQT2fCKEoic7YyUVwvs_-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TQT2fCKEoic7YyUVwvs_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TQT2fCKEoic7YyUVwvs_-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tool" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="1040" as="geometry" />
+          <mxGeometry height="60" width="120" x="354" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="TQT2fCKEoic7YyUVwvs_-27" edge="1" parent="1" source="TQT2fCKEoic7YyUVwvs_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TQT2fCKEoic7YyUVwvs_-24">
           <mxGeometry relative="1" as="geometry" />
